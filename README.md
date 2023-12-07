@@ -5,7 +5,6 @@
 <p> -> Php, Laravel, Database Management, REST APIs </p>
 <p> -> Payment Gateways and 3rd party API integration </p>
 <p> -> HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax </p>
-<p> -> Team and Client Management </p>
 
 - 📫 How to reach me **rahulghaskata01@gmail.com**
 
