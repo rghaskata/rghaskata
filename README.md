@@ -1,11 +1,11 @@
 <h3 align="center">Hi 👋, I'm Rahul Ghaskata, A passionate full Stack developer from India.</h3>
-<h4 align="center">I'm experienced in Laravel developement with a passion for crafting robust and efficient web solutions. With over 3.5 years of hands-on experience, I bring a wealth of knowledge in web designing, PHP, MySQL database management, Laravel framework, and more. 💻 My technical expertise extends to building and optimizing databases, creating RESTful APIs, and seamlessly integrating 3rd party APIs for enhanced functionality. I thrive on the challenges of seamless payment gateway integrations, ensuring secure and smooth transactions within web applications. 🚀 Throughout my journey, I've honed my skills in crafting scalable and maintainable code, ensuring the delivery of high-performance web applications. My commitment to staying updated with the latest industry trends allows me to implement best practices and deliver innovative solutions. 📫 Let's connect and explore the endless possibilities of web development together. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or exciting projects in mind!🚀 </h4>
+<h4 align="center">I'm experienced in Laravel developement with a passion for crafting robust and efficient web solutions. With over 3.5 years of hands-on experience, 🚀 I bring a wealth of knowledge in web designing, PHP, MySQL database management, Laravel framework, and more. 💻 My technical expertise extends to building and optimizing databases, creating RESTful APIs, and seamlessly integrating 3rd party APIs for enhanced functionality. 📫 Let's connect and explore the endless possibilities of web development together. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or exciting projects in mind!🚀 </h4>
 
 <h4 align="left"> 🛠️ Here's a glimpse of my Development skill set: </h4>
--> Php, Laravel, Database Management, REST APIs
--> Payment Gateways and 3rd party API integration
--> HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax
--> Team and Client Management
+<p> -> Php, Laravel, Database Management, REST APIs </p>
+<p> -> Payment Gateways and 3rd party API integration </p>
+<p> -> HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax </p>
+<p> -> Team and Client Management </p>
 
 - 📫 How to reach me **rahulghaskata01@gmail.com**
 
