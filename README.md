@@ -1,6 +1,6 @@
 ## I'm Rahul Ghaskata 👋
 
-<a href="https://www.linkedin.com/in/rahul-ghaskata">
+<a href="https://www.linkedin.com/in/rghaskata">
   <img align="left" alt="RG's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/rghaskata01">
@@ -22,6 +22,6 @@
 - ⚡ Fun fact: I don't always test my code, but when I do, I do it in production😉.
 - 💬 Ask me about Laravel or any tech related stuff.
 
-[![Linkedin: rahul-ghaskata](https://img.shields.io/badge/rahul-ghaskata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ghaskata/)](https://www.linkedin.com/in/rahul-ghaskata/)
+[![Linkedin: Rghaskata](https://img.shields.io/badge/rghaskata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rghaskata/)](https://www.linkedin.com/in/rghaskata/)
 [![Twitter: rghaskata01](https://img.shields.io/twitter/follow/rghaskata01?style=social)](https://twitter.com/rghaskata01)
 [![GitHub rghaskata](https://img.shields.io/github/followers/rghaskata?label=follow&style=social)](https://github.com/rghaskata)
