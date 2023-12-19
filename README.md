@@ -23,5 +23,5 @@
 - - 💬 Ask me about Laravel or any tech related stuff.
 
 [![Twitter: rghaskata01](https://img.shields.io/twitter/follow/rghaskata01?style=social)](https://twitter.com/rghaskata01)
-[![Linkedin: rahul-ghaskata](https://img.shields.io/badge/-rahul-ghaskata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ghaskata/)](https://www.linkedin.com/in/rahul-ghaskata/)
+[![Linkedin: rahul-ghaskata](https://img.shields.io/badge/rahul-ghaskata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ghaskata/)](https://www.linkedin.com/in/rahul-ghaskata/)
 [![GitHub rghaskata](https://img.shields.io/github/followers/rghaskata?label=follow&style=social)](https://github.com/rghaskata)
