@@ -1,16 +1,16 @@
 ## I'm Rahul Ghaskata 👋
 
-<a href="https://twitter.com/rghaskata01">
-  <img align="left" alt="RG's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/rahul-ghaskata">
   <img align="left" alt="RG's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/rghaskata">
-  <img align="left" alt="RG's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://twitter.com/rghaskata01">
+  <img align="left" alt="RG's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://instagram.com/rahulll.01">
   <img align="left" alt="RG's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/rghaskata">
+  <img align="left" alt="RG's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br/>
 <br/>
