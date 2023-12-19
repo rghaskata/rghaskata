@@ -1,84 +1,27 @@
-<h3 align="center">Hi 👋, I'm Rahul Ghaskata, A passionate full Stack developer from India.</h3>
-<h4 style="text-align:justify;">I'm experienced in Laravel developement with a passion for crafting robust and efficient web solutions. With over 3.5 years of hands-on experience, 🚀 I bring a wealth of knowledge in web designing, PHP, MySQL database management, 💻 Laravel framework, and more.📫 Let's connect and explore the endless possibilities of web development together. Feel free to check out my repositories and don't hesitate to reach out if you have any questions or exciting projects in mind!🚀 </h4>
+## I'm Rahul Ghaskata 👋
 
-<h4 align="left"> 🛠️ Here's a glimpse of my Development skill set: </h4>
-<p> -> Php, Laravel, Database Management, REST APIs </p>
-<p> -> Payment Gateways and 3rd party API integration </p>
-<p> -> HTML, CSS, Bootstrap, JavaScript, JQuery, Ajax </p>
+<a href="https://twitter.com/rghaskata01">
+  <img align="left" alt="RG's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rahul-ghaskata">
+  <img align="left" alt="RG's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/rghaskata">
+  <img align="left" alt="RG's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/rahulll.01">
+  <img align="left" alt="RG's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br/>
+<br/>
 
+- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on [Laravel](http://laravel.com)
+- 🌱 I’m currently learning [Vue.js](https://vuejs.org/)
 - 📫 How to reach me **rahulghaskata01@gmail.com**
+- - ⚡ Fun fact: I don't always test my code, but when I do, I do it in production.
+- - 💬 Ask me about Laravel or any tech related stuff.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://stackoverflow.com/users/13383529" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13383529" height="30" width="30" />
-  </a>
-  <a href="https://discord.gg/rahulg_01" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rahulg_01" height="30" width="30" />
-  </a>
-  <a href="https://codepen.io/rahulghaskata" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rahulghaskata" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/rahul-ghaskata-7b46041a7" target="blank">
-     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-ghaskata-7b46041a7" height="30" width="30" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> 
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="30" height="30"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="30" height="30"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> 
-  </a> 
-<!--   
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-  </a>  
--->
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulg&show_icons=true&locale=en" alt="rahulg" /></p>
+[![Twitter: rghaskata01](https://img.shields.io/twitter/follow/rghaskata01?style=social)](https://twitter.com/rghaskata01)
+[![Linkedin: rahul-ghaskata](https://img.shields.io/badge/-rahul-ghaskata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul-ghaskata/)](https://www.linkedin.com/in/rahul-ghaskata/)
+[![GitHub rghaskata](https://img.shields.io/github/followers/rghaskata?label=follow&style=social)](https://github.com/rghaskata)
